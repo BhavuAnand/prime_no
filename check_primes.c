@@ -14,9 +14,8 @@ int main()
             printf("%d",n);
             printf(" is not prime.");
             flag=1;    
-            
-        }
-        break;    
+            break;
+        }    
     }    
     if(flag==0)
     printf("%d",n);
